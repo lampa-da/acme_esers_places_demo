@@ -1,0 +1,16 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 0px;
+
+}
+
+ul#nav{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  background-color: dodgerblue;
+  padding: 1rem;
+}
+ul#nav a{
+  color: cornsilk
+}
